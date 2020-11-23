@@ -1,7 +1,7 @@
-# Welcome to StackEdit!
+# www.websitesi.com sitesinin frontend birebir yeniden tasarımı 
 ## BS435 Web Programlama 1 Dersi Vize Ödevi
 ### Erciyes Üniversitesi Bilgisayar Mühendisliği Bölümü  
-www.websitesi.com sitesinin frontend birebir yeniden tasarımı 
+
 Tasarlayan: **Adı Soyadı**
 Öğretim Üyesi: Dr. Fehim KÖYLÜ
 
